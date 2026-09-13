@@ -28,7 +28,7 @@ Confidence: Low (ambiguous)
 
 ## Limitations
 
-Identifies format only — does not crack or verify hashes.
+Identifies format only: does not crack or verify hashes.
 
 ## Requirements
 
